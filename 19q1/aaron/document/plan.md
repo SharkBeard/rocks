@@ -18,6 +18,7 @@ To document the development process to page 30 standards.
 * Week 1: Come up with plan
 * Week 2: Get/review pg 30 guidelines and example pg30 document
 * Week 3: Identify core processes
+    * Update plan
 * Week 4: Have first draft of first process
 * Week 5: Get feedback
     * Meet with Tyler
