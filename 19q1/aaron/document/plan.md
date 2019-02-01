@@ -5,7 +5,7 @@ To document the development process to page 30 standards.
 ## Plan Overview
 
 * Identify core processes
-* Study page 30 standards
+* ~~Study page 30 standards~~
 * Finish report on process:
     * Process 1
     * Process 2
@@ -15,8 +15,8 @@ To document the development process to page 30 standards.
 
 ### Week by week
 
-* Week 1: Come up with plan
-* Week 2: Get/review pg 30 guidelines and example pg30 document
+* ~~Week 1: Come up with plan~~
+* ~~Week 2: Get/review pg 30 guidelines and example pg30 document~~
 * Week 3: Identify core processes
     * Update plan
 * Week 4: Have first draft of first process
